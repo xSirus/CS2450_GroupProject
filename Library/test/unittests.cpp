@@ -1,9 +1,13 @@
 //--------------------------------------------------------------------------------------------------
-// Author: Clint Worwood
+// C++ Group 3 Members:
+//                                                         Clint Worwood
+//                                      Jake Parratt
+//                  Joel Harrison
+// Nino Munoz
 //--------------------------------------------------------------------------------------------------
 #include <iostream>
 #include <exception>
-#include "unittest.h"
+#include "../lib/unittest.h"
 #include "../lib/exceptions.h"
 //--------------------------------------------------------------------------------------------------
 // Includes for Modules to Test

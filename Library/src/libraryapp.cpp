@@ -1,6 +1,10 @@
 //==================================================================================================
 // Library Application
-// C++ Group 3 Members: Clint Worwood, Jake Parratt, Joel Harrison, Nino Munoz
+// C++ Group 3 Members:
+//                                                         Clint Worwood
+//                                      Jake Parratt
+//                  Joel Harrison
+// Nino Munoz
 //==================================================================================================
 #include <iostream>
 
