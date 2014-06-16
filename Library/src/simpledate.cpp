@@ -7,7 +7,7 @@
 
 using namespace std;
 
-// TODO: yearsPriorsdvf
+// TODO: yearsPriors
 // TODO: monthsPrior
 // TODO: yearsAhead
 // TODO: monthsAhead
